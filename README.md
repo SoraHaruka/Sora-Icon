@@ -1,0 +1,2 @@
+# PicStoreJson
+上传图片并将name和url追加到gist的json文件上
