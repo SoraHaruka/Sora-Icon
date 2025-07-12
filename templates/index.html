@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>图片上传</title>
+  <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>上传图片</h1>
+    <input type="text" id="name" placeholder="请输入名称" required>
+    <input type="file" id="image" accept="image/*" required>
+    <button onclick="uploadImage()">上传</button>
+    <div id="message"></div>
+  </div>
+  <script src="/static/js/script.js"></script>
+</body>
+</html>
