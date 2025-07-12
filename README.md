@@ -12,7 +12,7 @@
     "name": "Forward icon self-service upload",
     "description": "by huangxd-，图标自助上传",
     "icons": [
-      {"name": "TVB", "url": "https://www.picgo.net/image/yZ4BIk"}
+      {"name": "TVB", "url": "https://img.picgo.net/2025/07/12/34FB618D-E746-4FFA-BA63-08C03831B3DC_CocoAI_20250712_07011708f728f2e77f9dca.md.png"}
     ]
   }
   ```
