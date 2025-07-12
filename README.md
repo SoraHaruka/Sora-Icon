@@ -24,7 +24,7 @@
 - **后端**：Python, Flask
 - **前端**：HTML, CSS, JavaScript
 - **依赖**：requests（用于 API 调用）
-- **部署**：Vercel
+  - **部署**：Vercel
 
 ## 部署到 Vercel
 
@@ -94,7 +94,7 @@
 
 你可以通过以下按钮一键部署项目到 Vercel：
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=YOUR_GITHUB_REPOSITORY_URL&env=PICGO_API_KEY,GIST_ID,GITHUB_TOKEN&env-description=PicGo%20API%20Key,%20GitHub%20Gist%20ID,%20and%20GitHub%20Personal%20Access%20Token)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/huangxd-/PicStoreJson&env=PICGO_API_KEY,GIST_ID,GITHUB_TOKEN&env-description=PicGo%20API%20Key,%20GitHub%20Gist%20ID,%20and%20GitHub%20Personal%20Access%20Token)
 
 **步骤**：
 1. 点击上方按钮，登录 Vercel。
