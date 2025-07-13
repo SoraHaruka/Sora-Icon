@@ -1,5 +1,13 @@
 # PicStoreJson
 
+<p align="center">
+  <img src="https://img.picgo.net/2025/07/13/PicStoreJson2246a2fd6d0c9537.jpg" alt="" width="400px"/>
+  <br>
+  <a href="https://pic-store-json.vercel.app">DEMO</a>
+  <br>
+  <span>1. 不要肆意上传 2. 广告不要上传 3. 乱七八糟的不要上传</span>
+</p>
+
 ## 项目用途
 
 本项目是一个基于 Python 和 Flask 的 Web 应用，允许用户通过移动端友好的网页上传图片到 PicGo API，并将图片的名称和 URL 存储到 GitHub Gist 的 JSON 文件中。项目具有以下功能：
