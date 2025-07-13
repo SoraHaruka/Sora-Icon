@@ -33,7 +33,7 @@ def upload_image():
 
         # 上传图片到 PicGo API
         form_data = {"source": (image.filename, image.stream, image.mimetype)}
-        headers = {"X-API-Key": os.getenv("PICGO_API_KEY")}
+        headers = {"X-API-Key": PICGO_API_KEY}
         upload_response = requests.post(PICGO_API_URL, files=form_data, headers=headers)
 
         if upload_response.status_code != 200:
