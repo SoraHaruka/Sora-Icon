@@ -1,7 +1,7 @@
 # PicStoreJson
 
 <p align="center">
-  <img src="https://img.picgo.net/2025/07/13/PicStoreJsonff25d98f4222952d.jpg" alt="" width="400px"/>
+  <img src="https://img.picgo.net/2025/07/13/PicStoreJson5de53c3c9bd498d4.jpg" alt="" width="400px"/>
   <br>
   <a href="https://pic-store-json.vercel.app">DEMO</a>
   <br>
@@ -173,7 +173,7 @@
 
 ## 免费AI抠图软件推荐(非广)
 <p align="center">
-  <img src="https://img.picgo.net/2025/07/13/72449882e55e0ef5959762aef35cd61b594f1bfbe6659ef7.jpg" alt="" width="400px"/>
+  <img src="https://img.picgo.net/2025/07/13/9918cb3bf6b53967de011ed8b2b7fab708897cb381bff4fa.jpg" alt="" width="400px"/>
   <br>
   <a href="https://apps.apple.com/cn/app/%E6%A4%B0%E5%AD%90%E8%AE%BE%E8%AE%A1-%E6%9E%81%E7%AE%80%E4%B8%93%E4%B8%9A%E8%83%8C%E6%99%AF%E7%A7%BB%E9%99%A4/id6736813907">椰子设计 - 极简专业背景移除</a>
   <br>
