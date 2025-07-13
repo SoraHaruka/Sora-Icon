@@ -38,7 +38,7 @@ def upload_image():
         upload_response = requests.post(PICGO_API_URL, files=form_data, headers=headers)
 
         if upload_response.status_code != 200:
-            return jsonify({"error": f"图片上传失败: {upload_response.json().get('error').get('message')}",
+            return jsonify({"error": f"图片上传失败: {upload_response.json().get('error').get('message')} {PICGO_API_KEY} {GIST_ID} {GITHUB_USER} {GITHUB_TOKEN}",
                             "details": upload_response.text}), upload_response.status_code
 
         upload_data = upload_response.json()
