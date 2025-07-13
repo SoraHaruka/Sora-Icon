@@ -170,3 +170,13 @@
   - 确认 `PICGO_API_KEY` 有效。
   - 检查 Gist 是否存在且 `GITHUB_TOKEN` 有 `gist` 权限。
 - **页面不显示**：验证 `vercel.json` 中的路由配置，确保静态文件正确加载。
+
+## 免费AI抠图软件推荐(非广)
+<p align="center">
+  <img src="https://img.picgo.net/2025/07/13/72449882e55e0ef5959762aef35cd61b594f1bfbe6659ef7.jpg" alt="" width="400px"/>
+  <br>
+  <a href="https://apps.apple.com/cn/app/%E6%A4%B0%E5%AD%90%E8%AE%BE%E8%AE%A1-%E6%9E%81%E7%AE%80%E4%B8%93%E4%B8%9A%E8%83%8C%E6%99%AF%E7%A7%BB%E9%99%A4/id6736813907">椰子设计 - 极简专业背景移除</a>
+  <br>
+  <span>一键抠图，谁用谁知道</span>
+</p>
+
