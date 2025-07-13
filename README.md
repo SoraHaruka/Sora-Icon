@@ -13,7 +13,7 @@
 本项目是一个基于 Python 和 Flask 的 Web 应用，允许用户通过移动端友好的网页上传图片到 PicGo API，并将图片的名称和 URL 存储到 GitHub Gist 的 JSON 文件中。项目具有以下功能：
 
 - **图片上传**：用户输入名称并上传图片到 PicGo API。
-- **名称唯一性检查**：防止重复名称，重复时返回错误。
+- **名称唯一性检查**：防止重复名称，重复时增加后缀数字自增1。
 - **Gist 更新**：将图片名称和 URL 以追加方式存储到 Gist 的 JSON 文件中，格式如下：
   ```json
   {
@@ -55,7 +55,7 @@
    - 创建新 Token，勾选 `gist` 权限，复制 Token。
 
 3. **获取 PicGo API 密钥**：
-   - 确保你有 PicGo API 的密钥（`X-API-Key`），通常由 PicGo 服务提供。
+   - 确保你有 PicGo API 的密钥（`X-API-Key`），通常由 [PicGo](https://www.picgo.net) 服务提供。
 
 4. **克隆或创建项目**：
    - 将项目代码克隆到本地，或创建一个新仓库，包含以下结构：
