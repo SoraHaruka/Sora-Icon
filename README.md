@@ -83,6 +83,7 @@
    - 在 Vercel 项目设置的 “Environment Variables” 页面，添加以下变量：
      - `PICGO_API_KEY`：你的 PicGo API 密钥。
      - `GIST_ID`：你的 Gist ID。
+     - `GITHUB_USER`：你的 GITHUB USER。
      - `GITHUB_TOKEN`：你的 GitHub Personal Access Token。
    - 确保变量名称与 `api/index.py` 中的一致。
 
@@ -102,6 +103,7 @@
 3. 在部署配置页面，输入以下环境变量：
    - `PICGO_API_KEY`：你的 PicGo API 密钥。
    - `GIST_ID`：你的 Gist ID。
+   - `GITHUB_USER`：你的 GITHUB USER。
    - `GITHUB_TOKEN`：你的 GitHub Personal Access Token。
 4. 点击 “Deploy”，等待部署完成。
 

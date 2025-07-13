@@ -47,6 +47,23 @@ button:hover {
   text-align: center;
   color: #333;
 }
+.centered-link {
+  text-align: center;
+  margin: 10px 0;
+}
+.centered-link a {
+  color: #007bff;
+  text-decoration: none;
+}
+.centered-link a:hover {
+  text-decoration: underline;
+}
+.github-icon {
+  width: 20px;
+  height: 20px;
+  vertical-align: middle;
+  margin-right: 5px;
+}
 @media (max-width: 600px) {
   .container {
     width: 95%;

@@ -3,16 +3,18 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>图片上传</title>
+  <title>PicStoreJson图片上传</title>
   <link rel="stylesheet" href="/static/css/style.css">
 </head>
 <body>
   <div class="container">
-    <h1>上传图片</h1>
+    <h1>PicStoreJson上传图片</h1>
     <input type="text" id="name" placeholder="请输入名称" required>
     <input type="file" id="image" accept="image/*" required>
     <button onclick="uploadImage()">上传</button>
     <div id="message"></div>
+    <p class="centered-link"><a href="https://gist.githubusercontent.com/{{ github_user }}/{{ gist_id }}/raw/icons.json" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/136/136525.png" alt="GitHub" class="github-icon"> 查看json文件</a></p>
+    <p class="centered-link"><a href="https://github.com/huangxd-/PicStoreJson" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" class="github-icon"> GitHub开源仓库</a></p>
   </div>
   <script src="/static/js/script.js"></script>
 </body>

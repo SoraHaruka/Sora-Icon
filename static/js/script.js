@@ -21,7 +21,7 @@ async function uploadImage() {
 
     const data = await response.json();
     if (response.ok) {
-      messageDiv.textContent = `上传成功！名称: ${data.name}, URL: ${data.url}`;
+      messageDiv.textContent = `上传成功！名称: ${data.name}`;
       nameInput.value = "";
       imageInput.value = "";
     } else {
