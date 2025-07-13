@@ -23,10 +23,5 @@
       "src": "/(.*)",
       "dest": "/api/index.py"
     }
-  ],
-  "env": {
-    "PICGO_API_KEY": "",
-    "GIST_ID": "",
-    "GITHUB_TOKEN": ""
-  }
+  ]
 }
