@@ -18,6 +18,7 @@ GIST_FILE_NAME = "icons.json"
 
 @app.route("/")
 def home():
+    print(PICGO_API_KEY, GIST_ID, GITHUB_USER, GITHUB_TOKEN)
     return render_template("index.html", github_user=GITHUB_USER, gist_id=GIST_ID)
 
 
