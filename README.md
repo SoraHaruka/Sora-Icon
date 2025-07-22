@@ -172,6 +172,7 @@
 - **页面不显示**：验证 `vercel.json` 中的路由配置，确保静态文件正确加载。
 
 ## 免费AI抠图软件推荐(非广)
+可以先用chatgpt对图片进行“剪影反白”，并“背景透明”，或者用下面的软件一键抠图
 <p align="center">
   <img src="https://img.picgo.net/2025/07/13/9918cb3bf6b53967de011ed8b2b7fab708897cb381bff4fa.jpg" alt="" width="400px"/>
   <br>
