@@ -12,7 +12,7 @@ PICGO_API_URL = "https://www.picgo.net/api/1/upload"
 PICGO_API_KEY = os.getenv("PICGO_API_KEY", "chv_SwH9j_df309d9dc4f97492e9347b71d94dd589bae19b65cbb282f326e1a99835a06c1e17eba52bdcee02fd1a4c616270ddbf127890194870aaee97c34abd55e49f1f43")  # 替换为你的 PicGo API 密钥
 GIST_ID = os.getenv("GIST_ID", "1c8db7ed76ea31c4eef394ecd4cdf105")  # 替换为你的 Gist ID
 GITHUB_USER = os.getenv("GITHUB_USER", "SoraHaruka")  # 替换为你的 GITHUB USER
-GITHUB_TOKEN = os.getenv("GITHUB_TOKEN", "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")  # 替换为你的 GitHub Token
+GITHUB_TOKEN = os.getenv("GITHUB_TOKEN", "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")  # 替换为你的 GitHub Token
 GIST_FILE_NAME = "icons.json"
 
 
