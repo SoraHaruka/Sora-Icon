@@ -9,10 +9,10 @@ app = Flask(__name__,
 
 # PicGo API 和 GitHub Gist 配置
 PICGO_API_URL = "https://www.picgo.net/api/1/upload"
-PICGO_API_KEY = os.getenv("PICGO_API_KEY", "YOUR_API_KEY")  # 替换为你的 PicGo API 密钥
-GIST_ID = os.getenv("GIST_ID", "YOUR_GIST_ID")  # 替换为你的 Gist ID
-GITHUB_USER = os.getenv("GITHUB_USER", "YOUR_GITHUB_USER")  # 替换为你的 GITHUB USER
-GITHUB_TOKEN = os.getenv("GITHUB_TOKEN", "YOUR_GITHUB_TOKEN")  # 替换为你的 GitHub Token
+PICGO_API_KEY = os.getenv("PICGO_API_KEY", "chv_SwH9j_df309d9dc4f97492e9347b71d94dd589bae19b65cbb282f326e1a99835a06c1e17eba52bdcee02fd1a4c616270ddbf127890194870aaee97c34abd55e49f1f43")  # 替换为你的 PicGo API 密钥
+GIST_ID = os.getenv("GIST_ID", "8a4c80f6a3cfe1a9679a0198312fa298")  # 替换为你的 Gist ID
+GITHUB_USER = os.getenv("GITHUB_USER", "SoraHaruka")  # 替换为你的 GITHUB USER
+GITHUB_TOKEN = os.getenv("GITHUB_TOKEN", "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")  # 替换为你的 GitHub Token
 GIST_FILE_NAME = "icons.json"
 
 
